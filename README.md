@@ -32,4 +32,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
