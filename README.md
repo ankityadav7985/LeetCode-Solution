@@ -40,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Backtracking
 |  |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Simulation
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
