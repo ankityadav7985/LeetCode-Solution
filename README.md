@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Backtracking
 |  |
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
