@@ -23,10 +23,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
@@ -68,6 +70,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
