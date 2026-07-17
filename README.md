@@ -54,14 +54,17 @@
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Divide and Conquer
 |  |
