@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0238-product-of-array-except-self](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0283-move-zeroes) |
@@ -15,6 +16,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
 |  |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
