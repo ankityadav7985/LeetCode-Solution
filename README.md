@@ -11,6 +11,7 @@
 | [0238-product-of-array-except-self](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0283-move-zeroes) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0035-search-insert-position) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
