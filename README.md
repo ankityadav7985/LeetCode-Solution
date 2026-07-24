@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0238-product-of-array-except-self](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
@@ -106,6 +107,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
