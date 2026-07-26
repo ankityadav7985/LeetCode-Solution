@@ -12,6 +12,7 @@
 | [0238-product-of-array-except-self](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
@@ -49,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
