@@ -1,12 +1,9 @@
 class Solution {
 public:
-    int maximumProduct(vector<int>& A) {
-        ranges::sort(A);
-        int n = A.size();
-        
-        return max(
-            A.back() * A[n - 2] * A[n - 3],
-            A.back() * A.front() * A[1]
-        );
+    int maximumProduct(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+        return max((nums[0] * nums[1] * nums[nums.size() - 1]),
+                   nums[nums.size() - 1] * nums[nums.size() - 2] *
+                       nums[nums.size() - 3]);
     }
 };
