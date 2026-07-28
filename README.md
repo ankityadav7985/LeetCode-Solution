@@ -37,6 +37,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0912-sort-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
 | ------- |
