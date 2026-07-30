@@ -37,6 +37,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
@@ -53,6 +54,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Backtracking
@@ -143,4 +145,5 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0045-jump-game-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
