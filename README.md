@@ -37,6 +37,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
