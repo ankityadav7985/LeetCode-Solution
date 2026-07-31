@@ -35,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -155,4 +156,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
