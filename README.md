@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0045-jump-game-ii) |
+| [0189-rotate-array](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
@@ -45,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
@@ -54,6 +56,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
