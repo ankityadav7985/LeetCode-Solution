@@ -147,4 +147,12 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
