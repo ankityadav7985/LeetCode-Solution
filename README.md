@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0198-house-robber) |
+| [0877-stone-game](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
 |  |
@@ -58,6 +60,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0877-stone-game) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -163,4 +166,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ankityadav7985/LeetCode-Solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
